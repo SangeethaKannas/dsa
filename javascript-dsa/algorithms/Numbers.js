@@ -1,3 +1,4 @@
+==============================================================================================
 Given a 32-bit integer, swap the 1st and 2nd bit, 3rd and 4th bit, up til the 31st and 32nd bit.
 
 Here's some starting code and an example:
@@ -8,7 +9,7 @@ def swap_bits(num):
 print(f"0b{swap_bits(0b10101010101010101010101010101010):032b}")
 # 0b01010101010101010101010101010101
 
-
+==============================================================================================
 
 Given a string, convert it to an integer without using the builtin str function. You are allowed to use ord to convert a character to ASCII code.
 
@@ -21,6 +22,7 @@ def convert_to_int(s):
 
 print(convert_to_int
 
+==============================================================================================
 
 Given a square 2D matrix (n x n), rotate the matrix by 90 degrees clockwise.
 
@@ -75,8 +77,7 @@ print(square_sum(13))
 # Min sum is 3^2 + 2^2
 # 2
 
-
-recently asked by Apple:
+==============================================================================================
 
 Given a non-negative integer n, convert n to base 2 in string form. Do not use any built in base 2 conversion functions like bin.
 
@@ -89,7 +90,6 @@ print(base_2(123))
 # 1111011
 
 In the above example, 2^6 + 2^5 + 2^4 + 2^3 + 2^1 + 2^0 = 123.
-
 
 
 You are only allowed to perform 2 operations, multiply a number by 2, or subtract a number by 1. Given a number x and a number y, find the minimum number of operations needed to go from x to y.
@@ -130,7 +130,8 @@ def makeWords(phone):
 print(makeWords('364'))
 # ['dog', 'fog']
 
-
+==============================================================================================
+  
 Given a string that may represent a number, determine if it is a number. Here's some of examples of how the number may be presented:
 
 "123" # Integer
@@ -158,7 +159,8 @@ print(parse_number("12.3"))
 print(parse_number("12a"))
 # False
 
-
+==============================================================================================
+  
 Given a list of numbers, where every number shows up twice except for one number, find that one number.
 
 Example:
@@ -174,7 +176,8 @@ def singleNumber(nums):
 print singleNumber([4, 3, 2, 4, 1, 3, 2])
 # 1
 
-
+==============================================================================================
+  
 Version numbers are strings that are used to identify unique states of software products. A version number is in the format a.b.c.d. and so on where a, b, etc. are numeric strings separated by dots. These generally represent a hierarchy from major to minor changes. Given two version numbers version1 and version2, conclude which is the latest version number. Your code should do the following:
 If version1 > version2 return 1.
 If version1 < version2 return -1.
@@ -220,7 +223,8 @@ version2 = "1"
 print(Solution().compareVersion(version1, version2))
 # 1
 
-
+==============================================================================================
+  
 Given a number of integers, combine them so it would create the largest number.
 
 Example:
@@ -234,7 +238,7 @@ def largestNum(nums):
 print largestNum([17, 7, 2, 45, 72])
 # 77245217
 
-
+==============================================================================================
 
 The Fibonacci sequence is the integer sequence defined by the recurrence relation: F(n) = F(n-1) + F(n-2), where F(0) = 0 and F(1) = 1. In other words, the nth Fibonacci number is the sum of the prior two Fibonacci numbers. Below are the first few values of the sequence:
 
@@ -259,8 +263,8 @@ n = 9
 print(Solution().fibonacci(n))
 # 34
 
-
-You are given an array of integers. Return all the permutations of this array.
+==============================================================================================
+Given an array of integers. Return all the permutations of this array.
 
 def permute(nums):
   # Fill this in.
@@ -268,8 +272,7 @@ def permute(nums):
 print permute([1, 2, 3])
 # [[1, 2, 3], [2, 1, 3], [2, 3, 1], [1, 3, 2], [3, 1, 2], [3, 2, 1]]
 
-
-
+==============================================================================================
 
 Given an array of integers of size n, where all elements are between 1 and n inclusive, find all of the elements of [1, n] that do not appear in the array. Some numbers may appear more than once.
 
@@ -286,7 +289,7 @@ nums = [4, 6, 2, 6, 7, 2, 1]
 print(Solution().findDisappearedNumbers(nums))
 # [3, 5]
 
-
+==============================================================================================
 
 Given a sorted list of numbers, return a list of strings that represent all of the consecutive numbers.
 
@@ -323,7 +326,7 @@ def findSequence(seq):
 print findSequence([1, 3, 5, 3, 1, 3, 1, 5])
 # 4
 
-
+==============================================================================================
 
 Given a list of numbers with only 3 unique numbers (1, 2, 3), sort the list in O(n) time.
 
@@ -338,4 +341,51 @@ def sortNums(nums):
 print sortNums([3, 3, 2, 1, 3, 2, 1])
 # [1, 1, 2, 2, 3, 3, 3]
 
+==============================================================================================
+Given a positive integer n, find all primes less than n.
+
+Here's an example and some starter code:
+
+def find_primes(n):
+  # Fill this in.
+
+print(find_primes(14))
+# [2, 3, 5, 7, 11, 13]
+
+==============================================================================================
+Given a non-negative integer n, convert the integer to hexadecimal and return the result as a string. Hexadecimal is a base 16 representation of a number, where the digits are 0123456789ABCDEF. Do not use any builtin base conversion functions like hex.
+
+Here's an example and some starter code.
+
+def to_hex(n):
+  # Fill this in.
+  
+print(to_hex(123))
+# 7B
+
+==============================================================================================
+
+Given a list of sorted numbers, and two integers k and x, find k closest numbers to the pivot x.
+
+Here's an example and some starter code:
+
+def closest_nums(nums, k, x):
+ # Fill this in.
+
+print(closest_nums([1, 3, 7, 8, 9], 3, 5))
+# [7, 3, 8]
+
+==============================================================================================
+  
+Given a list of numbers, for each element find the next element that is larger than the current element. Return the answer as a list of indices. If there are no elements larger than the current element, then use -1 instead.
+
+Here's an example and some starter code:
+
+def larger_number(nums):
+  # Fill this in.
+
+# print [2, 2, 3, 4, -1, -1]
+print(larger_number([3, 2, 5, 6, 9, 8]))
+
+==============================================================================================
 
