@@ -13,59 +13,6 @@ print(longest_common_prefix(['daily', 'interview', 'pro']))
 
 
 
-Given an integer, convert the integer to a roman numeral. You can assume the input will be between 1 to 3999.
-
-The rules for roman numerals are as following:
-
-There are 7 symbols, which correspond to the following values.
-
-I   1
-V   5
-X   10
-L   50
-C   100
-D   500
-M   1000
-
-The value of a roman numeral are the digits added together. For example the roman numeral 'XX' is V + V = 10 + 10 = 20. Typically the digits are listed from largest to smallest, so X should always come before I. Thus the largest possible digits should be used first before the smaller digits (so to represent 50, instead of XXXXX, we should use L).
-
-There are a couple special exceptions to the above rule.
-
-To represent 4, we should use IV instead of IIII. Notice that I comes before V.
-To represent 9, we should use IX instead of VIIII.
-To represent 40, we should use XL instead of XXXX.
-To represent 90, we should use XC instead of LXXXX.
-To represent 400, we should use CD instead of CCCC.
-To represent 900, we should use CM instead of DCCCC.
-
-Here are some examples and some starter code.
-
-def integer_to_roman(num):
-  # Fill this in.
-
-print(integer_to_roman(1000))
-# M
-print(integer_to_roman(48))
-# XLVIII
-print(integer_to_roman(444))
-# CDXLIV
-
-
-
-
-Given an integer, reverse the digits. Do not convert the integer into a string and reverse it.
-
-Here's some examples and some starter code.
-
-def reverse_integer(num):
-  # Fill this in.
-  
-print(reverse_integer(135))
-# 531
-
-print(reverse_integer(-321))
-# -123
-
 
 
 Reshaping a matrix means to take the same elements in a matrix but change the row and column length. This means that the new matrix needs to have the same elements filled in the same row order as the old matrix. Given a matrix, a new row size x and a new column size y, reshape the matrix. If it is not possible to reshape, return None.
@@ -82,8 +29,8 @@ print(reshape_matrix([[1, 2], [3, 4]], 2, 3))
 # None
 
 
-
-Given two binary numbers represented as strings, return the sum of the two binary numbers as a new binary represented as a string. Do this without converting the whole binary string into an integer.
+Given two binary numbers represented as strings, return the sum of the two binary numbers as a new binary represented as a string. 
+Do this without converting the whole binary string into an integer.
 
 Here's an example and some starter code.
 
@@ -92,21 +39,6 @@ def sum_binary(bin1, bin2):
   
 print(sum_binary("11101", "1011"))
 # 101000
-
-
-
-Given a list of numbers and a target number n, find 3 numbers in the list that sums closest to the target number n. There may be multiple ways of creating the sum closest to the target number, you can return any combination in any order.
-
-Here's an example and some starter code.
-
-def closest_3sum(nums, target):
-  # Fill this in.
-  
-print(closest_3sum([2, 1, -5, 4], -1))
-# Closest sum is -5+1+2 = -2 OR -5+1+4 = 0
-# print [-5, 1, 2]
-
-
 
 Pascal's Triangle is a triangle where all numbers are the sum of the two numbers above it. Here's an example of the Pascal's Triangle of size 5.
 
@@ -139,8 +71,6 @@ def shortest_dist(s, c):
 print(shortest_dist('helloworld', 'l'))
 # [2, 1, 0, 0, 1, 2, 2, 1, 0, 1]
 
-
-
 Given a 32 bit integer, reverse the bits and return that number.
 
 Example:
@@ -164,8 +94,6 @@ print(reverse_num_bits(1234))
 # 1260388352
 print(to_bits(reverse_num_bits(1234)))
 # 1001011001000000000000000000000
-
-
 
 
 Given a string, return the first recurring letter that appears. If there are no recurring letters, return None.
@@ -216,8 +144,6 @@ print(paths_through_maze([[0, 1, 0],
 # 2
 
 
-
-
 Given a string, determine if there is a way to arrange the string such that the string is a palindrome. If such arrangement exists, return a palindrome (There could be many arrangements). Otherwise return None.
 
 Here's some starter code:
@@ -227,8 +153,6 @@ def find_palindrome(s):
 
 print(find_palindrome('momom'))
 # momom
-
-
 
 
 Given a list of points, an interger k, and a point p, find the k closest points to p.
