@@ -1,4 +1,129 @@
 ==============================================================================================
+Given a binary tree and a given node value, return all of the node's cousins. Two nodes are considered cousins if they are on the same level of the tree with different parents. You can assume that all nodes will have their own unique value.
+
+Here's some starter code:
+
+class Node(object):
+  def __init__(self, value, left=None, right=None):
+    self.value = value
+    self.left = left
+    self.right = right
+
+class Solution(object):
+  def list_cousins(self, tree, val):
+    # Fill this in.
+
+#     1
+#    / \
+#   2   3
+#  / \   \
+# 4   6   5
+root = Node(1)
+root.left = Node(2)
+root.left.left = Node(4)
+root.left.right = Node(6)
+root.right = Node(3)
+root.right.right = Node(5)
+
+print Solution().list_cousins(root, 5)
+# [4, 6]
+
+==============================================================================================
+
+Given a number n, generate all binary search trees that can be constructed with nodes 1 to n.
+
+Here's some code to start with:
+
+class Node:
+  def __init__(self, value, left=None, right=None):
+    self.value = value
+    self.left = left
+    self.right = right
+
+  def __str__(self):
+    result = str(self.value)
+    if self.left:
+      result = result + str(self.left)
+    if self.right:
+      result = result + str(self.right)
+    return result
+
+def generate_bst(n):
+  # Fill this in.
+
+for tree in generate_bst(3):
+  print tree
+
+# Pre-order traversals of binary trees from 1 to n.
+# 123
+# 132
+# 213
+# 312
+# 321
+
+#   1      1      2      3      3
+#    \      \    / \    /      /
+#     2      3  1   3  1      2
+#      \    /           \    /
+#       3  2             2  1
+
+==============================================================================================
+Given a postorder traversal for a binary search tree, reconstruct the tree. 
+A postorder traversal is a traversal order where the left child always comes before the right child, and the right child always comes before the parent 
+for all nodes.
+
+Here's some starter code:
+
+class Node():
+  def __init__(self, value, left=None, right=None):
+    self.value = value
+    self.left = left
+    self.right = right
+
+  def __repr__(self):
+    return "(" + str(self.value) + ", " + self.left.__repr__() + ", " + self.right.__repr__() + ")"
+
+
+def create_tree(postorder):
+  # Fill this in.
+
+# 2 is the root node, with 1 as the left child and 3 as the right child
+print(create_tree([1, 3, 2]))
+
+==============================================================================================
+Given a binary tree, find the level in the tree where the sum of all nodes on that level is the greatest.
+
+Here's an example and some starter code.
+
+class Node:
+  def __init__(self, value, left=None, right=None):
+    self.value = value
+    self.left = left
+    self.right = right
+
+  def __repr__(self):
+    return f"(Value: {self.value} Left: {self.left} Right: {self.right})"
+
+def tree_level_max_sum(root):
+  # Fill this in.
+
+n3 = Node(4, Node(3), Node(2))
+n2 = Node(5, Node(4), Node(-1))
+n1 = Node(1, n2, n3)
+
+"""
+    1          Level 0 - Sum: 1
+   / \
+  4   5        Level 1 - Sum: 9 
+ / \ / \
+3  2 4 -1      Level 2 - Sum: 8
+
+"""
+
+print(tree_level_max_sum(n1))
+# Should print 1 as level 1 has the highest level sum
+
+==============================================================================================
 
 Given a binary tree, find and return the largest path from root to leaf.
 
