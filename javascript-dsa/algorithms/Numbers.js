@@ -1,5 +1,88 @@
+==============================================================================================
+Kaprekar's Constant is the number 6174. This number is special because it has the property where for any 4-digit number that has 2 or more unique digits, if you repeatedly apply a certain function it always reaches the number 6174.
+
+This certain function is as follows:
+- Order the number in ascending form and descending form to create 2 numbers.
+- Pad the descending number with zeros until it is 4 digits in length.
+- Subtract the ascending number from the descending number.
+- Repeat.
+
+Given a number n, find the number of times the function needs to be applied to reach Kaprekar's constant. Here's some starter code:
+
+KAPREKAR_CONSTANT = 6174
+
+def num_kaprekar_iterations(n):
+  # Fill this in.
+
+print num_kaprekar_iterations(123)
+# 3
+# Explanation:
+#  3210 - 123 = 3087
+#  8730 - 0378 = 8352
+#  8532 - 2358 = 6174 (3 iterations)
+
+==============================================================================================
+Given a list of numbers, find the smallest window to sort such that the whole list will be sorted. If the list is already sorted return (0, 0). You can assume there will be no duplicate numbers.
+
+Example:
+
+Input: [2, 4, 7, 5, 6, 8, 9]
+Output: (2, 4)
+
+Explanation: Sorting the window (2, 4) which is [7, 5, 6] will also means that the whole list is sorted.
+
+def min_window_to_sort(nums):
+  # Fill this in.
+  
+print(min_window_to_sort([2, 4, 7, 5, 6, 8, 9]))
+# (2, 4)
+
+==============================================================================================
+
+Given a list of numbers, and a target number n, find all unique combinations of a, b, c, d, such that a + b + c + d = n.
+
+Here's some examples and some starting code.
+
+def fourSum(nums, target):
+  # Fill this in.
+
+print(fourSum([1, 1, -1, 0, -2, 1, -1], 0))
+# print [[-1, -1, 1, 1], [-2, 0, 1, 1]]
+
+print(fourSum([3, 0, 1, -5, 4, 0, -1], 1))
+# print [[-5, -1, 3, 4]]
+
+print(fourSum([0, 0, 0, 0, 0], 0))
+# print ([0, 0, 0, 0])
 
 ===============================================================================================
+
+Given a 32 bit integer, reverse the bits and return that number.
+
+Example:
+
+Input: 1234 
+# In bits this would be 0000 0000 0000 0000 0000 0100 1101 0010
+Output: 1260388352
+# Reversed bits is 0100 1011 0010 0000 0000 0000 0000 0000
+
+Here's some starter code:
+
+def to_bits(n):
+  return '{0:08b}'.format(n)
+
+def reverse_num_bits(num):
+  # Fill this in.
+
+print(to_bits(1234))
+# 10011010010
+print(reverse_num_bits(1234))
+# 1260388352
+print(to_bits(reverse_num_bits(1234)))
+# 1001011001000000000000000000000
+
+==============================================================================================
+
 A UTF-8 character encoding is a variable width character encoding that can vary from 1 to 4 bytes depending on the character. The structure of the encoding is as follows:
 
 1 byte:  0xxxxxxx
@@ -468,17 +551,9 @@ print(integer_to_roman(444))
 
 Given an integer, reverse the digits. Do not convert the integer into a string and reverse it.
 
-Here's some examples and some starter code.
+print(reverse_integer(135))   # 531
 
-def reverse_integer(num):
-  # Fill this in.
-  
-print(reverse_integer(135))
-# 531
-
-print(reverse_integer(-321))
-# -123
-
+print(reverse_integer(-321))   # -123
 
 =============================================================================
   
@@ -493,9 +568,4 @@ print(closest_3sum([2, 1, -5, 4], -1))
 # Closest sum is -5+1+2 = -2 OR -5+1+4 = 0
 # print [-5, 1, 2]
 
-=============================================================================
-  
-=============================================================================
-  
-  
-   
+
