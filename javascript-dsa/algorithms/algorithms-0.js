@@ -1,7 +1,7 @@
-==============================================================================================
-Given a list of meetings that will happen during a day, find the minimum number of meeting rooms that can fit all meetings.
+//==============================================================================================
+/*Given a list of meetings that will happen during a day, find the minimum number of meeting rooms that can fit all meetings.
 
-Each meeting will be represented by a tuple of (start_time, end_time), where both start_time and end_time will be represented by an integer to indicate the time. 
+Each meeting will be represented by a tuple of (start_time, end_time), where both start_time and end_time will be represented by an integer to indicate the time.
 start_time will be inclusive, and end_time will be exclusive, meaning a meeting of (0, 10) and (10, 20) will only require 1 meeting room.
 
 Here's some examples and some starting code:
@@ -11,25 +11,29 @@ print(meeting_rooms([(0, 10), (10, 20)]))
 
 print(meeting_rooms([(20, 30), (10, 21), (0, 50)]))
 # 3 (all meetings overlap at time 20)
- 
+
    Answer
      1. sort the array based on lowest starting time
-     2. 
+     2.
 
 ==============================================================================================
 
 Given a list of points as a tuple (x, y) and an integer k, find the k closest points to the origin (0, 0).
 
-Here's an example and some starter code:
+*/
 
-def closest_points(points, k):
-  # Fill this in.
+function closestPoints(points, k) {
 
-print(closest_points([(0, 0), (1, 2), (-3, 4), (3, 1)], 2))
-# [(1, 2), (0, 0)]
 
+}
+
+
+console.log(closestPoints([[0, 0], [1, 2], [-3, 4], [3, 1]], 2));
+// [(1, 2), (0, 0)]
+
+/*
 ==============================================================================================
-	
+
 Given a list of undirected edges which represents a graph, find out the number of connected components.
 
 def num_connected_components(edges):
@@ -95,7 +99,7 @@ print(transpose(mat))
 
 ==========================================================================================
 
-Given a numerator and a denominator, find what the equivalent decimal representation is as a string. 
+Given a numerator and a denominator, find what the equivalent decimal representation is as a string.
 If the decimal representation has recurring digits, then put those digits in brackets (ie 4/3 should be represented by 1.(3) to represent 1.333...).
 Do not use any built in evaluator functions like python's eval. You can also assume that the denominator will be nonzero.
 
@@ -116,7 +120,7 @@ print(frac_to_dec(1, 6))
 ==========================================================================================
 
 N-Queens
- - is the problem where you find a way to put n queens on a nxn chess board without them being able to attack each other. 
+ - is the problem where you find a way to put n queens on a nxn chess board without them being able to attack each other.
  Given an integer n, return 1 possible solution by returning all the queen's position.
 
 Here's an example and some starter code:
@@ -190,8 +194,8 @@ print(paths_through_maze([[0, 1, 0],
 # 2
 
 ==================================================================================================
-Reshaping a matrix means to take the same elements in a matrix but change the row and column length. 
-This means that the new matrix needs to have the same elements filled in the same row order as the old matrix. 
+Reshaping a matrix means to take the same elements in a matrix but change the row and column length.
+This means that the new matrix needs to have the same elements filled in the same row order as the old matrix.
 Given a matrix, a new row size x and a new column size y, reshape the matrix. If it is not possible to reshape, return None.
 
 Here's an example and some starter code.
@@ -258,7 +262,7 @@ Here's an example and some starter code:
 
 def make_change(coins, n):
   # Fill this in.
-  
+
 print(make_change([1, 5, 10, 25], 36))
 # 3 coins (25 + 10 + 1)
 
@@ -341,17 +345,24 @@ print(flatten_dictionary(d))
 # {'a': 1, 'b.c': 2, 'b.d.e': 3}
 
 ======================================================================================
-  
+
 A fixed point in a list is where the value is equal to its index. So for example the list [-5, 1, 3, 4], 1 is a fixed point in the list since the index and value is the same. Find a fixed point (there can be many, just return 1) in a sorted list of distinct elements, or return None if it doesn't exist.
 
 Here is a starting point:
+*/
+function find_fixed_point(nums) {
+  return nums.reduce((acc, value, index) => {
+    if(value === index) {
+      acc.push(index);
+    }
+    return acc;
+  }, [])
+}
 
-def find_fixed_point(nums):
-  # Fill this in.
+console.log( find_fixed_point([-5, 1, 3, 4]) );
+//# 1
 
-print find_fixed_point([-5, 1, 3, 4])
-# 1
-
+/*
 ==============================================================================================
 
 Given a list of building in the form of (left, right, height), return what the skyline should look like. The skyline should be in the form of a list of (x-axis, height), where x-axis is the next point where there is a change in height starting from 0, and height is the new height starting from the x-axis.
@@ -371,3 +382,4 @@ print generate_skyline([(2, 8, 3), (4, 6, 5)])
 # [(2, 3), (4, 5), (7, 3), (9, 0)]
 
 ==============================================================================================
+*/
