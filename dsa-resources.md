@@ -1,45 +1,44 @@
-
---- Graphs
-1) Process Ordering - https://lnkd.in/dN4ErKyE
-
-2) Number of Islands - https://lnkd.in/dHQJGhPJ
-
-3) k Jumps on Grid - https://lnkd.in/dKM_ETsM)
+ - Graphs
 
 
---- Trie
-1) Finding Prefix in Dictionary - https://lnkd.in/dpRvFDq5
+Process Ordering -  [https://lnkd.in/dN4ErKyE](https://lnkd.in/dN4ErKyE)
+Number of Islands -  [https://lnkd.in/dHQJGhPJ](https://lnkd.in/dHQJGhPJ)
+ k Jumps on Grid -  [https://lnkd.in/dKM_ETsM](https://lnkd.in/dKM_ETsM))
 
+ - Trie
 
---- Tree
-1) Binary Tree Top Down View - https://lnkd.in/dmun-Pn3
+ Finding Prefix in Dictionary -  [https://lnkd.in/dpRvFDq5](https://lnkd.in/dpRvFDq5)
 
-2) Traversing binary tree in an outward manner.
+- Tree
 
-3) Diameter of a binary tree [Path is needed] - https://lnkd.in/dH-w_DQV
+Binary Tree Top Down View -  [https://lnkd.in/dmun-Pn3](https://lnkd.in/dmun-Pn3)
+Traversing binary tree in an outward manner.
+Diameter of a binary tree [Path is needed] -  [https://lnkd.in/dH-w_DQV](https://lnkd.in/dH-w_DQV)
+    
+- Sliding window
 
+ Contains Duplicates III -  [https://lnkd.in/djcWHTaX](https://lnkd.in/djcWHTaX)
+    
+Minimum Window Substring [Variation of this question] -  [https://lnkd.in/dPfnQZmr](https://lnkd.in/dPfnQZmr)
+    
 
---- Sliding window
-1) Contains Duplicates III - https://lnkd.in/djcWHTaX
+- Linked List
 
-2) Minimum Window Substring [Variation of this question] - https://lnkd.in/dPfnQZmr
+Reverse a Linked List II -  [https://lnkd.in/diHAJZUJ](https://lnkd.in/diHAJZUJ)
+    
+Remove Loop From Linked List -  [https://lnkd.in/d-zVawwX](https://lnkd.in/d-zVawwX)
+    
+Reverse a Linked List in k-groups -  [https://lnkd.in/de99T3hQ](https://lnkd.in/de99T3hQ)
+    
 
+- Binary Search
 
---- Linked List
-1) Reverse a Linked List II - https://lnkd.in/diHAJZUJ
+Search In rotate sorted Array -  [https://lnkd.in/djxEpFxF](https://lnkd.in/djxEpFxF)
 
-2) Remove Loop From Linked List - https://lnkd.in/d-zVawwX
+- Arrays
 
-3) Reverse a Linked List in k-groups - https://lnkd.in/de99T3hQ
-
-
---- Binary Search
-1) Search In rotate sorted Array - https://lnkd.in/djxEpFxF
-
-
---- Arrays
-1) Max bandWidth [Priority Queue, Sorting] - https://lnkd.in/d6JE2xpz
-
-2) Next permutation - https://lnkd.in/dk9cHQbw
-
-3) Largest Rectangle in Histogram - https://lnkd.in/dQHQcF-5
+Max bandWidth [Priority Queue, Sorting] -  [https://lnkd.in/d6JE2xpz](https://lnkd.in/d6JE2xpz)
+    
+Next permutation -  [https://lnkd.in/dk9cHQbw](https://lnkd.in/dk9cHQbw)
+    
+Largest Rectangle in Histogram -  [https://lnkd.in/dQHQcF-5](https://lnkd.in/dQHQcF-5)
