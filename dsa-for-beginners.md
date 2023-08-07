@@ -1,3 +1,6 @@
+# Big o Notation
+Understand big o Notation (Time and Space complexity)
+
 # Starters
 
 Running Sum of 1d Array
