@@ -1,7 +1,14 @@
 # Big o Notation
 Understand big o Notation (Time and Space complexity)
+Time complexity
 
-# Starters
+# Data Structures
+1. Arrays
+2. Linked List
+
+# Algorithms
+
+## Starters
 
 Running Sum of 1d Array
 Fibonacci Number
@@ -15,6 +22,16 @@ Jewels and Stones
 Kids With the Greatest Number of Candies
 Maximum Product of Two Elements in an Array
 Merge Sorted Array
+1. Sliding window
+2. Binary Search
+3. Recursion and acktracking
+4. BFS, DFC
+5. Dynamic Programming
+6. Tree and Binary search tree
+7. Bit manipulation
+8. String
+9. Math
+
 
 # Main course
 Missing Numbe
