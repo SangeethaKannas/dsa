@@ -135,3 +135,37 @@ Is Subsequence
 Next Permutation
 String to Integer (atoi)
 ZigZag Conversion
+
+// Given an array arr[] of N non-negative integers representing the height of blocks. 
+// If width of each block is 1, compute how much water can be trapped between the blocks during the rainy season. 
+
+const getVolumeBetweenBlocks = (block1, block2) => {
+  const diff = block1 - block2;
+  return diff > 0 ? diff : block2 - block1
+}
+
+const getVolume = (arr = []) => {
+
+  const maxHeight = arr[0]
+  let volume = maxHeight;
+  for (let index = 0; index < arr.length - 1; index++) {
+    const height = arr[index];
+    const nextHeight = arr[index + 1]
+    const currentVolume = getVolumeBetweenBlocks(height, nextHeight);
+    console.log('Test 2', currentVolume, height, nextHeight)
+    if(height === 0) {
+      continue
+    } else {
+      
+    }
+  }
+  return volume
+}
+
+const array1 = [3, 0, 0, 2, 0, 4];
+console.log(getVolume(array1))
+
+// const array2 = [0, 0, 0, 2, 0, 1];
+// const array3 = [1, 5, 0, 0, 0, 1];
+// const array4 = [3, 0, 0, 0, 0, 0];
+// const array5 = [3, 0, 0, 0, 0, 0];
