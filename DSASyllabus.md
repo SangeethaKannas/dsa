@@ -5,49 +5,35 @@ Understand Big O notation (Time and Space complexity)
 
 
 Day 2
-
--- Study Basic Concepts of Array and
-get familiar with List DS in the
+-- Study Basic Concepts of Array and get familiar with List DS in the
 programming language you chose.
--- Reverse the array in place (space
-complexity should be constant)
+-- Reverse the array in place (space complexity should be constant)
 Input —>> 3,5,9,4,2
 Output —>> 2,4,9,5,3
--- Insert an element in between of
-array
-
+-- Insert an element in between of array
 
 
 Day 3 and Day 4
 
-Understand Quick Sort, Merge
-Sort, Insertion Sort and Selection
-Sort
-Implement them all in your fav
-programming language
+Understand Quick Sort, Merge Sort, Insertion Sort and Selection Sort 
+Implement them all in JS
 
 
 Day 5
-Understand Binary Search
-Algorithm
-Search an element in the Sorted
-Array
+Understand Binary Search Algorithm
+Search an element in the Sorted Array
 Leetcode Question 33 -->Search in Rotated Sorted Array
 Leetcode Question 50 -->
-Implement pow(x, n), which
-calculates x raised to the power
-n (i.e., xn)
+Implement pow(x, n), which calculates x raised to the power n (i.e., xn)
 
 
 Day 6
 
-Understand 2D matrix/ @D Arrays
+Understand 2D matrix/ @D Arrays 
 Search a 2D Matrix Leetcode 74
 Set Matrix to Zero —> Leetcode 73
 Pascals Triangle —> Leetcode 118
 Rotate Matrix —> Leetcode 48
-
-
 
 Day 7
 
@@ -84,36 +70,28 @@ https://www.interviewbit.com/problems/subarray-with-given-xor/
 ## Linked List
 
 Day 11
-Understand the concept of
-Linked List
-Understand its Advantages and
-disadvantages over Arrays
-Implement the Linked list in the
-language you chose:
+Understand the concept of Linked List
+Understand its Advantages and disadvantages over Arrays
+Implement the Linked list in the language you chose:
 Create Linked List class
 Create a Node
 Add Node
 Remove Node
 Find Node in Linked List
 
-
 Day 12
 
 Reverse Linked List
 Find Middle of the Linked List
-Remove Nth Node From End of
-List
+Remove Nth Node From End of List
 Merge Two Sorted Lists
 
 Day 13
 
-Add Two Numbers given in linked
-list
-Detect and remove Linked List
-Cycle
+Add Two Numbers given in linked list
+Detect and remove Linked List Cycle
 Intersection of Two Linked Lists
 Palindrome Linked List
-
 
 Day 14
 Reverse Nodes in k-Group
@@ -124,17 +102,11 @@ Copy List with Random Pointer
 
 ## STACK
 Day 15
-Understand the basics of Stack
-Data Structures
-Relate with some real-life
-examples like
-Stack of Note books and Stack
+Understand the basics of Stack Data Structures
+Relate with some real-life examples like Stack of Note books and Stack
 of coins
-Implement the Stack using
-Arrays (Push Pop etc
-functionalities )
-Implement the Stack with
-Linked List
+Implement the Stack using Arrays (Push Pop etc functionalities )
+Implement the Stack with Linked List
 
 Day 16
 Sort a Stack
@@ -143,8 +115,7 @@ Retrieve Minimum Element from
 the Stack --> Leetcode 155
 
 Day 17
-Next Greater Element using
-Stack --> Leetcode 496
+Next Greater Element using Stack --> Leetcode 496
 Find largest rectangle in
 Histogram --> Leetcode 84
 
@@ -152,14 +123,10 @@ Histogram --> Leetcode 84
 ## QUEUES
 
 Day 18
-Understand the basics of Queue
-Data Structures
-Relate with some real-life
-examples
-Implement the Queue using
-Arrays
-Implement the Queue using the
-Linked List
+Understand the basics of Queue Data Structures
+Relate with some real-life examples
+Implement the Queue using Arrays
+Implement the Queue using the Linked List
 
 Day 19
 Implement Queue using Stack
@@ -180,28 +147,20 @@ Implement LFU Cache
 Day 22
 Learn Sliding window Coding Pattern
 Sliding Window Maximum Leetcode 239
-First negative integer in every window
-of size
+First negative integer in every window of size
 
 
 Day 23
-Trapping Rain Water (Stack-based)
-Leetcode 42
-Simplify Directory Path (Stack Based)
-Leetcode 71
+Trapping Rain Water (Stack-based) Leetcode 42
+Simplify Directory Path (Stack Based) Leetcode 71
 (No Priority Queue for now)
 
 
 ## Recursion
 Day 24
-Understand Recursion and its
-base conditions etc.
-Understand in depth not only
-what recursion is but also what
-kind of Data str it uses internally
-etc.
-You will get to know how
-StackOverflow error occurs
+Understand Recursion and its base conditions etc.
+Understand in depth not only what recursion is but also what kind of Data str it uses internally etc.
+You will get to know how StackOverflow error occurs
 
 
 Day 25

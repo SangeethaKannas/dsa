@@ -1,0 +1,76 @@
+class QueueNode {
+  constructor(data) {
+    this.data = data;
+    this.next = null;
+  }
+}
+
+export default class Queue {
+  constructor() {
+    this.head = this.tail = null;
+    this.length = 0;
+  }
+
+  insertLast(newNode) {
+    if (this.tail !== null) {
+      this.tail.next = newNode;
+    }
+    this.tail = newNode;
+
+    if (this.head === null) {
+      this.head = newNode;
+    }
+
+    this.length += 1;
+  }
+
+  removeStart() {
+    const currNodeData = this.head.data;
+    if (this.head === this.tail) {
+      this.tail = null;
+    }
+
+    this.head = this.head.next;
+    this.length -= 1;
+    return currNodeData;
+  }
+
+  isEmpty() {
+    return this.length === 0;
+  }
+
+  pop() {
+    if (this.length === 0) {
+      return null;
+    }
+    return this.removeStart();
+  }
+
+  push(data) {
+    const node = new QueueNode(data);
+    return this.insertLast(node);
+  }
+
+  peek() {
+    if (this.length === 0) {
+      return null;
+    }
+
+    return this.head.data;
+  }
+
+  toArray() {
+    return [...this];
+  }
+
+  *[Symbol.iterator]() {
+    var cur = this.head;
+    while (cur) {
+      yield cur.data;
+      cur = cur.next;
+    }
+  }
+}
+
+
+
