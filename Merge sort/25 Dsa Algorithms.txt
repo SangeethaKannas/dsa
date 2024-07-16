@@ -1,0 +1,39 @@
+Graphs
+Krushkals Algo
+Dikstra's Algo
+Bellman Ford
+Floyd Warshall
+Topological Sort
+Flood Fill
+Lee
+
+Searching
+  Linear search
+  Binary Search
+  Depth first search
+  Breath First search
+
+Sorting 
+  Insertion
+ Heap
+Selection
+Merge
+Quick 
+Counting
+
+
+Arrays
+
+1 kadanes Algo
+Floyds cycle detection
+KMP Algo
+Quick select Algo
+Boyer More majority Vote
+
+
+Basics
+Huffman Coding compression
+Euclid's
+Union find
+
+

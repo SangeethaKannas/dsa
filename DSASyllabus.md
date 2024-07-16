@@ -3,7 +3,6 @@
 Day 1
 Understand Big O notation (Time and Space complexity)
 
-
 Day 2
 -- Study Basic Concepts of Array and get familiar with List DS in the
 programming language you chose.
@@ -168,3 +167,65 @@ Fibonacci Number
 Reverse the Linked List using the
 Recursive approach
 Reverse LinkedList in k-groups
+
+Day 26
+Subset Sums
+Subsets II
+
+
+Day 27
+Combination Sum
+Combination Sum II
+Palindrome Partitioning
+Permutation Sequence
+
+# Revise Arrays     and Linked List
+Day 29
+Revise Queues and Stacks
+
+Day 30
+Revise Recursion and practice
+
+Day 31
+Understand what exactly Hashbased Data structures are!
+What is hashing?
+What is a hash code?
+What is Hash Function?
+Understand the concept of
+ROLLING HASH
+Understand the usage and
+application of Hash Tables like
+-- Used to implement database
+indexes.
+-- Used to implement
+associative arrays.
+-- Used to implement the
+different data structures like
+hashMap/HashSet etc
+
+
+Day 32
+Understand the internals of
+HashMap and HashSet
+Read the code of the already
+implemented hashMap/HashSet
+library if the code is available like
+in Java.
+Do a bit of hands-on, iterate the
+hashMap/set etc
+
+Day 33
+Design HashSet -- Leetcode 705
+Design HashMap -- Leetcode 706
+Two Sum -- Leetcode 1
+Running Sum of 1D Array
+Leetcode 1480
+
+Day 34
+Check If a String Contains All Binary
+Codes of Size K -- Leetcode 1461
+K Divisible Elements Subarrays --
+Leetcode 2261
+Number of Distinct Islands --
+Leetcode 711
+
