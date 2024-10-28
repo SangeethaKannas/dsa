@@ -1,4 +1,5 @@
 
+# Graph Algorithms
 1. Breadth-first search: Traverses a graph level by level, exploring all neighbors of a node before moving on to the next level.
 
 2. Depth-first search: Explores as far as possible along each branch before backtracking, often implemented using recursion.

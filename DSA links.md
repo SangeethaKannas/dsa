@@ -1,79 +1,47 @@
 1 Reverse the array (https://www.geeksforgeeks.org/write-a-program-to-reversean-array-or-string/)
-2 Find the maximum and minimum element in an array
-(https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-3 Find the "Kth" max and min element of an array
-(https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
-4 Given an array which consists of only 0, 1 and 2. Sort the array without using any
-sorting algo (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s1s-and-2s/0)
-5 Move all the negative elements to one side of the array
-(https://www.geeksforgeeks.org/move-negative-numbers-beginning-positiveend-constant-extra-space/)
-6 Find the Union and Intersection of the two sorted arrays.
-(https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
-7 Write a program to cyclically rotate an array by one.
-(https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-byone/0)
-8 find Largest sum contiguous Subarray [V. IMP]
-(https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
-9 Minimise the maximum difference between heights [V.IMP]
-(https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
-10 Minimum no. of Jumps to reach end of an array
-(https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
+2 Find the maximum and minimum element in an array (https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+3 Find the "Kth" max and min element of an array (https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+4 Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo (https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s1s-and-2s/0)
+5 Move all the negative elements to one side of the array (https://www.geeksforgeeks.org/move-negative-numbers-beginning-positiveend-constant-extra-space/)
+6 Find the Union and Intersection of the two sorted arrays. (https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
+7 Write a program to cyclically rotate an array by one. (https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-byone/0)
+8 find Largest sum contiguous Subarray [V. IMP] (https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+9 Minimise the maximum difference between heights [V.IMP] (https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+10 Minimum no. of Jumps to reach end of an array (https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
 11 find duplicate in an array of N+1 Integers (https://leetcode.com/problems/find-theduplicate-number/)
 Topics (/) / Array
-12 Merge 2 sorted arrays without using Extra space.
-(https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
-13 Kadane's Algo [V.V.V.V.V IMP]
-(https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+12 Merge 2 sorted arrays without using Extra space. (https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
+13 Kadane's Algo [V.V.V.V.V IMP] (https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 14 Merge Intervals (https://leetcode.com/problems/merge-intervals/)
 15 Next Permutation (https://leetcode.com/problems/next-permutation/)
 16 Count Inversion (https://practice.geeksforgeeks.org/problems/inversion-ofarray/0)
 17 Best time to buy and Sell stock (https://leetcode.com/problems/best-time-to-buyand-sell-stock/)
-18 find all pairs on integer array whose sum is equal to given number
-(https://practice.geeksforgeeks.org/problems/count-pairs-with-givensum5022/1)
-19 find common elements In 3 sorted arrays
-(https://practice.geeksforgeeks.org/problems/common-elements1132/1)
+18 find all pairs on integer array whose sum is equal to given number (https://practice.geeksforgeeks.org/problems/count-pairs-with-givensum5022/1)
+19 find common elements In 3 sorted arrays (https://practice.geeksforgeeks.org/problems/common-elements1132/1) 
 20 Rearrange the array in alternating positive and negative items with O(1) extra space
-(https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negativeitems-o1-extra-space/)
-21 Find if there is any subarray with sum equal to 0
-(https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
-22 Find factorial of a large number
-(https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)
-23 find maximum product subarray
-(https://practice.geeksforgeeks.org/problems/maximum-productsubarray3604/1)
-24 Find longest consecutive subsequence
-(https://practice.geeksforgeeks.org/problems/longest-consecutivesubsequence/0)
-25 Given an array of size n and a number k, find all elements that appear more than "
-n/k " times. (https://leetcode.com/problems/majority-element-ii/)
-26 Maximum profit by buying and selling a share atmost twice
-(https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-ashare-at-most-twice/)
-27 Find whether an array is a subset of another array
-(https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
-
-
-
-28 Find the triplet that sum to a given value
-(https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0)
-29 Trapping Rain water problem
-(https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
-30 Chocolate Distribution problem
-(https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
-31 Smallest Subarray with sum greater than a given value
-(https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sumgreater-than-x/0)
+(https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negativeitems-o1-extra-space/) 
+21 Find if there is any subarray with sum equal to 0 (https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
+22 Find factorial of a large number (https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)
+23 find maximum product subarray (https://practice.geeksforgeeks.org/problems/maximum-productsubarray3604/1)
+24 Find longest consecutive subsequence (https://practice.geeksforgeeks.org/problems/longest-consecutivesubsequence/0)
+25 Given an array of size n and a number k, find all elements that appear more than " n/k " times. (https://leetcode.com/problems/majority-element-ii/)
+26 Maximum profit by buying and selling a share atmost twice (https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-ashare-at-most-twice/)
+27 Find whether an array is a subset of another array (https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0) 
+28 Find the triplet that sum to a given value (https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0)
+29 Trapping Rain water problem (https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
+30 Chocolate Distribution problem (https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+31 Smallest Subarray with sum greater than a given value (https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sumgreater-than-x/0)
 32 Three way partitioning of an array around a given value
 (https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)
-33 Minimum swaps required bring elements less equal K together
-(https://practice.geeksforgeeks.org/problems/minimum-swaps-required-tobring-all-elements-less-than-or-equal-to-k-together/0)
-34 Minimum no. of operations required to make an array palindrome
-(https://practice.geeksforgeeks.org/problems/palindromic-array/0)
-35 Median of 2 sorted arrays of equal size
-(https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
+33 Minimum swaps required bring elements less equal K together (https://practice.geeksforgeeks.org/problems/minimum-swaps-required-tobring-all-elements-less-than-or-equal-to-k-together/0)
+34 Minimum no. of operations required to make an array palindrome (https://practice.geeksforgeeks.org/problems/palindromic-array/0)
+35 Median of 2 sorted arrays of equal size (https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
 36 Median of 2 sorted arrays of different size (https://www.geeksforgeeks.org/medianof-two-sorted-arrays-of-different-sizes/)
-
 
 
 1 Rat in a maze Problem (https://practice.geeksforgeeks.org/problems/rat-in-amaze-problem/1)
 2 Printing all solutions in N-Queen Problem (https://www.geeksforgeeks.org/printingsolutions-n-queen-problem/)
-3 Word Break Problem using Backtracking
-(https://practice.geeksforgeeks.org/problems/word-break-part-2/0)
+3 Word Break Problem using Backtracking (https://practice.geeksforgeeks.org/problems/word-break-part-2/0)
 4 Remove Invalid Parentheses (https://leetcode.com/problems/remove-invalidparentheses/)
 5 Sudoku Solver (https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
 6 m Coloring Problem (https://practice.geeksforgeeks.org/problems/m-coloringproblem/0)
@@ -84,36 +52,21 @@ n/k " times. (https://leetcode.com/problems/majority-element-ii/)
 11 Find shortest safe route in a path with landmines
 (https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-withlandmines/)
 12 Combinational Sum (https://practice.geeksforgeeks.org/problems/combinationsum/0)
-Topics (/) / Backtracking
-
-
-
-
-13 Find Maximum number possible by doing at-most K swaps
-(https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0)
-14 Print all permutations of a string
-(https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
-15 Find if there is a path of more than k length from a source
-(https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-lengthfrom-a-source/)
-16 Longest Possible Route in a Matrix with Hurdles
-(https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-withhurdles/)
-17 Print all possible paths from top left to bottom right of a mXn matrix
-(https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-tobottom-right-of-a-mxn-matrix/)
-18 Partition of a set intoK subsets with equal sum
-(https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)
-19 Find the K-th Permutation Sequence of first N natural numbers
-(https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-nnatural-numbers/)
-20 Implement Stack from Scratch
-(https://www.tutorialspoint.com/javaexamples/data_stack.htm)
+13 Find Maximum number possible by doing at-most K swaps (https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0)
+14 Print all permutations of a string (https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
+15 Find if there is a path of more than k length from a source (https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-lengthfrom-a-source/)
+16 Longest Possible Route in a Matrix with Hurdles (https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-withhurdles/)
+17 Print all possible paths from top left to bottom right of a mXn matrix (https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-tobottom-right-of-a-mxn-matrix/)
+18 Partition of a set intoK subsets with equal sum (https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)
+19 Find the K-th Permutation Sequence of first N natural numbers (https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-nnatural-numbers/)
+20 Implement Stack from Scratch (https://www.tutorialspoint.com/javaexamples/data_stack.htm)
 21 Implement Queue from Scratch (https://www.geeksforgeeks.org/queue-set1introduction-and-array-implementation/)
-22 Implement 2 stack in an array
-(https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-anarray/1)
-
+22 Implement 2 stack in an array (https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-anarray/1)
+
 
 
 1 level order traversal (https://practice.geeksforgeeks.org/problems/level-ordertraversal/1)
-2 Reverse Level Order traversal
-(https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
+2 Reverse Level Order traversal (https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 3 Height of a tree (https://practice.geeksforgeeks.org/problems/height-of-binarytree/1)
 4 Diameter of a tree (https://practice.geeksforgeeks.org/problems/diameter-ofbinary-tree/1)
 5 Mirror of a tree (https://www.geeksforgeeks.org/create-a-mirror-tree-from-thegiven-binary-tree/)
@@ -421,20 +374,15 @@ Topics (/) / Graph
 43 Minimise the cashflow among a given set of friends who have borrowed money from
 each other (https://www.geeksforgeeks.org/minimize-cash-flow-among-givenset-friends-borrowed-money/)
 44 Two Clique Problem (https://www.geeksforgeeks.org/two-clique-problem-checkgraph-can-divided-two-cliques/)
-
-
 
-
+## Greedy
 1 Activity Selection Problem (https://practice.geeksforgeeks.org/problems/nmeetings-in-one-room/0)
 2 Job SequencingProblem (https://practice.geeksforgeeks.org/problems/jobsequencing-problem/0)
 3 Huffman Coding (https://practice.geeksforgeeks.org/problems/huffmanencoding/0)
 4 Water Connection Problem (https://practice.geeksforgeeks.org/problems/waterconnection-problem/0)
-5 Fractional Knapsack Problem
-(https://practice.geeksforgeeks.org/problems/fractional-knapsack/0)
-6 Greedy Algorithm to find Minimum number of Coins
-(https://practice.geeksforgeeks.org/problems/coin-piles/0)
-7 Maximum trains for which stoppage can be provided
-(https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/)
+5 Fractional Knapsack Problem (https://practice.geeksforgeeks.org/problems/fractional-knapsack/0)
+6 Greedy Algorithm to find Minimum number of Coins (https://practice.geeksforgeeks.org/problems/coin-piles/0)
+7 Maximum trains for which stoppage can be provided (https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/)
 8 Minimum Platforms Problem
 (https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
 9 Buy Maximum Stocks if i stocks can be bought on i-th day
@@ -443,11 +391,6 @@ each other (https://www.geeksforgeeks.org/minimize-cash-flow-among-givenset-fri
 (https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0)
 11 Minimize Cash Flow among a given set of friends who have borrowed money from
 each other (https://www.geeksforgeeks.org/minimize-cash-flow-among-givenset-friends-borrowed-money/)
-Topics (/) / Greedy
-
-
-
-
 12 Minimum Cost to cut a board into squares
 (https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/)
 13 Check if it is possible to survive on Island
@@ -477,9 +420,6 @@ Topics (/) / Greedy
 27 GERGOVIA -Wine trading in Gergovia (https://www.spoj.com/problems/GERGOVIA/)
 28 Picking Up Chicks (https://www.spoj.com/problems/GCJ101BB/)
 29 CHOCOLA –Chocolate (https://www.spoj.com/problems/CHOCOLA/)
-
-
-
 30 ARRANGE -Arranging Amplifiers (https://www.spoj.com/problems/ARRANGE/)
 31 K Centers Problem (https://www.geeksforgeeks.org/k-centers-problem-set-1-
 greedy-approximate-algorithm/)
@@ -488,10 +428,9 @@ greedy-approximate-algorithm/)
 (https://practice.geeksforgeeks.org/problems/smallest-number5829/1)
 34 Rearrange characters in a string such that no two adjacent are same
 (https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
-35 Find maximum sum possible equal sum of three stacks
-(https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-threestacks/)
-
+35 Find maximum sum possible equal sum of three stacks (https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-threestacks/)
 
+## Heap
 
 1 Implement a Maxheap/MinHeap using arrays and recursion.
 (https://www.geeksforgeeks.org/building-heap-from-array/)
@@ -510,22 +449,16 @@ greedy-approximate-algorithm/)
 11 Smallest range in “K” Lists (https://practice.geeksforgeeks.org/problems/findsmallest-range-containing-elements-from-k-lists/1)
 12 Median in a stream of Integers (https://practice.geeksforgeeks.org/problems/findmedian-in-a-stream/0)
 13 Check if a Binary Tree is Heap (https://practice.geeksforgeeks.org/problems/isbinary-tree-heap/1)
-Topics (/) / Heap
 
-
-
-
-14 Connect “n” ropes with minimum cost
-(https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
+14 Connect “n” ropes with minimum cost (https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 15 Convert BST to Min Heap (https://www.geeksforgeeks.org/convert-bst-min-heap/)
 16 Convert min heap to max heap (https://www.geeksforgeeks.org/convert-minheap-to-max-heap/)
 17 Rearrange characters in a string such that no two adjacent are same.
 (https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
 18 Minimum sum of two numbers formed from digits of an array
 (https://practice.geeksforgeeks.org/problems/minimum-sum4058/1)
-
 
-
+## Linked List
 1 Write a Program to reverse the Linked List. (Both Iterative and recursive)
 (https://www.geeksforgeeks.org/reverse-a-linked-list/)
 2 Reverse a Linked List in group of Given Size. [Very Imp]
@@ -543,13 +476,7 @@ Topics (/) / Heap
 (https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linkedlist/)
 9 Add “1” to a number represented as a Linked List.
 (https://practice.geeksforgeeks.org/problems/add-1-to-a-number-representedas-linked-list/1)
-10 Add two numbers represented by linked lists.
-(https://practice.geeksforgeeks.org/problems/add-two-numbers-representedby-linked-lists/1)
-Topics (/) / Linked List
-
-
-
-
+10 Add two numbers represented by linked lists. (https://practice.geeksforgeeks.org/problems/add-two-numbers-representedby-linked-lists/1)
 11 Intersection of two Sorted Linked List.
 (https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linkedlists/1)
 12 Intersection Point of two Linked Lists.
@@ -594,8 +521,6 @@ Topics (/) / Linked List
 (https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linkedlist/1)
 36 Find the first non-repeating character from a stream of characters
 (https://practice.geeksforgeeks.org/problems/first-non-repeating-character-ina-stream/0)
-
-
 
 1 Spiral traversal on a Matrix (https://practice.geeksforgeeks.org/problems/spirallytraversing-a-matrix/0)
 2 Search an element in a matrix (https://leetcode.com/problems/search-a-2dmatrix/)
@@ -612,11 +537,8 @@ Topics (/) / Linked List
 (https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
 10 Common elements in all rows of a given matrix
 (https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-givenmatrix/)
-Topics (/) / Matrix
 
-
-
-
+## Matrix
 
 1 Find first and last positions of an element in a sorted array
 (https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
@@ -637,51 +559,35 @@ Topics (/) / Matrix
 (https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0)
 11 find four elements that sum to a given value
 (https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
-12 maximum sum such that no 2 elements are adjacent
-(https://practice.geeksforgeeks.org/problems/stickler-theif/0)
-Topics (/) / Search & Sort
+12 maximum sum such that no 2 elements are adjacent (https://practice.geeksforgeeks.org/problems/stickler-theif/0)
 
-
-
-
-13 Count triplet with sum smaller than a given value
-(https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smallerthan-x5549/1)
+## Search & Sort
+13 Count triplet with sum smaller than a given value (https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smallerthan-x5549/1)
 14 merge 2 sorted arrays (https://practice.geeksforgeeks.org/problems/merge-twosorted-arrays5135/1)
 15 print all subarrays with 0 sum (https://practice.geeksforgeeks.org/problems/zerosum-subarrays/0)
 16 Product array Puzzle (https://practice.geeksforgeeks.org/problems/product-arraypuzzle/0)
-17 Sort array according to count of set bits
-(https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0)
-18 minimum no. of swaps required to sort the array
-(https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
-19 Bishu and Soldiers
-(https://www.hackerearth.com/practice/algorithms/searching/binarysearch/practice-problems/algorithm/bishu-and-soldiers/)
-20 Rasta and Kheshtak
-(https://www.hackerearth.com/practice/algorithms/searching/binarysearch/practice-problems/algorithm/rasta-and-kheshtak/)
-21 Kth smallest number again
-(https://www.hackerearth.com/practice/algorithms/searching/binarysearch/practice-problems/algorithm/kth-smallest-number-again-2/)
-22 Find pivot element in a sorted array
-(http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotatedarray/)
+17 Sort array according to count of set bits (https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0)
+18 minimum no. of swaps required to sort the array (https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
+19 Bishu and Soldiers (https://www.hackerearth.com/practice/algorithms/searching/binarysearch/practice-problems/algorithm/bishu-and-soldiers/)
+20 Rasta and Kheshtak (https://www.hackerearth.com/practice/algorithms/searching/binarysearch/practice-problems/algorithm/rasta-and-kheshtak/)
+21 Kth smallest number again (https://www.hackerearth.com/practice/algorithms/searching/binarysearch/practice-problems/algorithm/kth-smallest-number-again-2/)
+22 Find pivot element in a sorted array (http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotatedarray/)
 23 K-th Element of Two Sorted Arrays (https://practice.geeksforgeeks.org/problems/kth-element-of-two-sorted-array/0)
 24 Aggressive cows (https://www.spoj.com/problems/AGGRCOW/)
 25 Book Allocation Problem (https://practice.geeksforgeeks.org/problems/allocateminimum-number-of-pages/0)
 26 EKOSPOJ: (https://www.spoj.com/problems/EKO/)
 27 Job Scheduling Algo (https://www.geeksforgeeks.org/weighted-job-schedulinglog-n-time/)
 28 Missing Number in AP (https://practice.geeksforgeeks.org/problems/arithmeticnumber/0)
-
-
-
-29 Smallest number with atleastn trailing zeroes infactorial
-(https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1)
+29 Smallest number with atleastn trailing zeroes infactorial(https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1)
 30 Painters Partition Problem: (https://practice.geeksforgeeks.org/problems/allocateminimum-number-of-pages/0)
 31 ROTI-Prata SPOJ (https://www.spoj.com/problems/PRATA/)
 32 DoubleHelix SPOJ (https://www.spoj.com/problems/ANARC05B/)
 33 Subset Sums (https://www.spoj.com/problems/SUBSUMS/)
 34 Find the inversion count (https://practice.geeksforgeeks.org/problems/inversionof-array/0)
 35 Implement Merge-sort in-place (https://www.geeksforgeeks.org/in-place-mergesort/)
-36 Partitioning and Sorting Arrays with Many Repeated Entries
-(https://www.baeldung.com/java-sorting-arrays-with-repeated-entries)
-
+36 Partitioning and Sorting Arrays with Many Repeated Entries (https://www.baeldung.com/java-sorting-arrays-with-repeated-entries)
 
+## Stacks & Queue
 
 1 Implement Stack from Scratch
 (https://www.tutorialspoint.com/javaexamples/data_stack.htm)
@@ -701,10 +607,6 @@ Topics (/) / Search & Sort
 11 Arithmetic Expression evaluation (https://www.geeksforgeeks.org/arithmeticexpression-evalution/)
 12 Evaluation of Postfix expression
 (https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
-Topics (/) / Stacks & Queue
-
-
-
 
 13 Implement a method to insert an element at its bottom without using any other data
 structure. (https://stackoverflow.com/questions/45130465/inserting-at-the-endof-stack)
@@ -730,9 +632,6 @@ structure. (https://stackoverflow.com/questions/45130465/inserting-at-the-endof
 26 LRU Cache Implementationa (https://practice.geeksforgeeks.org/problems/lrucache/1)
 27 Reverse a Queue using recursion
 (https://practice.geeksforgeeks.org/problems/queue-reversal/1)
-
-
-
 28 Reverse the first “K” elements of a queue
 (https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-ofqueue/1)
 29 Interleave the first half of the queue with second half
@@ -749,35 +648,24 @@ structure. (https://stackoverflow.com/questions/45130465/inserting-at-the-endof
 (https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagramsor-not/)
 35 Sum of minimum and maximum elements of all subarrays of size “k”.
 (https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrayssize-k/)
-36 Minimum sum of squares of character counts in a given string after removing “k”
-characters. (https://practice.geeksforgeeks.org/problems/game-with-string/0)
-37 Queue based approach or first non-repeating character in a stream.
-(https://practice.geeksforgeeks.org/problems/first-non-repeating-character-ina-stream/0)
+36 Minimum sum of squares of character counts in a given string after removing “k” characters. (https://practice.geeksforgeeks.org/problems/game-with-string/0)
+37 Queue based approach or first non-repeating character in a stream. (https://practice.geeksforgeeks.org/problems/first-non-repeating-character-ina-stream/0)
 38 Next Smaller Element (https://www.geeksforgeeks.org/next-smaller-element/)
-
 
+## String
 
 1 Reverse a String (https://leetcode.com/problems/reverse-string/)
-2 Check whether a String is Palindrome or not
-(https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
+2 Check whether a String is Palindrome or not (https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
 3 Find Duplicate characters in a string (https://www.geeksforgeeks.org/print-all-theduplicates-in-the-input-string/)
 4 Why strings are immutable in Java? (https://www.baeldung.com/java-stringimmutable)
-5 Write a Code to check whether one string is a rotation of another
-(https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotationsof-each-other/)
-6 Write a Program to check whether a string is a valid shuffle of two strings or not
-(https://www.programiz.com/java-programming/examples/check-valid-shuffleof-strings)
+5 Write a Code to check whether one string is a rotation of another (https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotationsof-each-other/)
+6 Write a Program to check whether a string is a valid shuffle of two strings or not (https://www.programiz.com/java-programming/examples/check-valid-shuffleof-strings)
 7 Count and Say problem (https://leetcode.com/problems/count-and-say/)
 8 Write a program to find the longest Palindrome in a string.[ Longest palindromic
 Substring] (https://practice.geeksforgeeks.org/problems/longest-palindrome-ina-string/0)
-9 Find Longest Recurring Subsequence in String
-(https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
+9 Find Longest Recurring Subsequence in String (https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
 10 Print all Subsequences of a string. (https://www.geeksforgeeks.org/printsubsequences-string/)
-11 Print all the permutations of the given string
-(https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
-Topics (/) / String
-
-
-
+11 Print all the permutations of the given string (https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
 
 12 Split the Binary string into two substring with equal 0’s and 1’s
 (https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-withequal-number-of-0s-and-1s/)
@@ -807,11 +695,7 @@ Topics (/) / String
 26 Converting Roman Numerals to Decimal
 (https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0)
 27 Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
-
-
-
-28 Number of flips to make binary string alternate
-(https://practice.geeksforgeeks.org/problems/min-number-of-flips/0)
+28 Number of flips to make binary string alternate (https://practice.geeksforgeeks.org/problems/min-number-of-flips/0)
 29 Find the first repeated word in string.
 (https://practice.geeksforgeeks.org/problems/second-most-repeated-string-ina-sequence/0)
 30 Minimum number of swaps for bracket balancing.
@@ -824,37 +708,21 @@ Topics (/) / String
 itself. (https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
 34 Rearrange characters in a string such that no two adjacent are same
 (https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
-35 Minimum characters to be added at front to make string palindrome
-(https://www.geeksforgeeks.org/minimum-characters-added-front-make-stringpalindrome/)
+35 Minimum characters to be added at front to make string palindrome (https://www.geeksforgeeks.org/minimum-characters-added-front-make-stringpalindrome/) 
 36 Given a sequence of words, print all anagrams together
 (https://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
-37 Find the smallest window in a string containing all characters of another string
-(https://practice.geeksforgeeks.org/problems/smallest-window-in-a-stringcontaining-all-the-characters-of-another-string/0)
-38 Recursively remove all adjacent duplicates
-(https://practice.geeksforgeeks.org/problems/consecutive-elements/0)
-39 String matching where one string contains wildcard characters
-(https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0)
-40 Function to find Number of customers who could not get a computer
-(https://www.geeksforgeeks.org/function-to-find-number-of-customers-whocould-not-get-a-computer/)
-41 Transform One String to Another using Minimum Number of Given Operation
-(https://www.geeksforgeeks.org/transform-one-string-to-another-usingminimum-number-of-given-operation/)
-
-
-
+37 Find the smallest window in a string containing all characters of another string (https://practice.geeksforgeeks.org/problems/smallest-window-in-a-stringcontaining-all-the-characters-of-another-string/0)
+38 Recursively remove all adjacent duplicates (https://practice.geeksforgeeks.org/problems/consecutive-elements/0)
+39 String matching where one string contains wildcard characters (https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0)
+40 Function to find Number of customers who could not get a computer (https://www.geeksforgeeks.org/function-to-find-number-of-customers-whocould-not-get-a-computer/)
+41 Transform One String to Another using Minimum Number of Given Operation (https://www.geeksforgeeks.org/transform-one-string-to-another-usingminimum-number-of-given-operation/)
 42 Check if two given strings are isomorphic to each other
 (https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)
-43 Recursively print all sentences that can be formed from list of word lists
-(https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-beformed-from-list-of-word-lists/)
-1 Construct a trie from scratch (https://www.geeksforgeeks.org/trie-insert-andsearch/)
-2 Find shortest unique prefix for every word in a given list
-(https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-representeach-word-in-a-given-list/)
-3 Word Break Problem | (Trie solution) (https://www.geeksforgeeks.org/word-breakproblem-trie-solution/)
-4 Given a sequence of words, print all anagrams together
-(https://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
-5 Implement a Phone Directory
-(https://practice.geeksforgeeks.org/problems/phone-directory/0)
-6 Print unique rows in a given boolean matrix
-(https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)
-Topics (/) / Trie
+43 Recursively print all sentences that can be formed from list of word lists (https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-beformed-from-list-of-word-lists/)
 
-
+1 Construct a trie from scratch (https://www.geeksforgeeks.org/trie-insert-andsearch/)
+2 Find shortest unique prefix for every word in a given list (https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-representeach-word-in-a-given-list/)
+3 Word Break Problem | (Trie solution) (https://www.geeksforgeeks.org/word-breakproblem-trie-solution/)
+4 Given a sequence of words, print all anagrams together (https://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
+5 Implement a Phone Directory (https://practice.geeksforgeeks.org/problems/phone-directory/0)
+6 Print unique rows in a given boolean matrix (https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)
