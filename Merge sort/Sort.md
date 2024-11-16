@@ -54,8 +54,6 @@ for(let i =0;i < arr.length;i++>) {
     }
 }
 
-
-
 ### Insertion sort
 - simple
 - builds final sorting array one at a time
