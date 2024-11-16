@@ -11,12 +11,10 @@ Input —>> 3,5,9,4,2
 Output —>> 2,4,9,5,3
 -- Insert an element in between of array
 
-
 Day 3 and Day 4
 
 Understand Quick Sort, Merge Sort, Insertion Sort and Selection Sort 
 Implement them all in JS
-
 
 Day 5
 Understand Binary Search Algorithm
@@ -24,7 +22,6 @@ Search an element in the Sorted Array
 Leetcode Question 33 -->Search in Rotated Sorted Array
 Leetcode Question 50 -->
 Implement pow(x, n), which calculates x raised to the power n (i.e., xn)
-
 
 Day 6
 
@@ -228,4 +225,3 @@ K Divisible Elements Subarrays --
 Leetcode 2261
 Number of Distinct Islands --
 Leetcode 711
-
